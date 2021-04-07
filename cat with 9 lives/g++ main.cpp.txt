@@ -1,0 +1,24 @@
+Last login: Sun Mar 21 10:58:13 on ttys006
+(base) xiaotong@localhost PG九命猫 % g++ main.cpp
+(base) xiaotong@localhost PG九命猫 % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

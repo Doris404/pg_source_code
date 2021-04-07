@@ -1,0 +1,40 @@
+Last login: Sun Mar 21 11:01:38 on ttys007
+(base) xiaotong@localhost PG九命猫 % ./a.out
+A new cat!
+^\The cat eat the food
+^\The cat eat the food
+^\The cat eat the food
+^\The cat eat the food
+the cat get sick because you don't deal with her waste
+The cat is sad
+load: 1.58  cmd: a.out 17594 running 6.86u 5.28s
+the cat is happy
+load: 1.53  cmd: a.out 17594 running 8.57u 6.60s
+the cat is happy
+load: 1.53  cmd: a.out 17594 running 8.78u 6.76s
+the cat is happy
+^Zyou deal with the cat's waste
+load: 1.49  cmd: a.out 17594 running 10.72u 8.25s
+the cat is happy
+load: 1.49  cmd: a.out 17594 running 10.88u 8.38s
+the cat is happy
+load: 1.49  cmd: a.out 17594 running 11.07u 8.52s
+the cat is happy
+load: 1.49  cmd: a.out 17594 running 11.24u 8.66s
+the cat is happy
+^\The cat eat the food
+^\The cat eat the food
+^\The cat eat the food
+^\The cat eat the food
+the cat get sick because you don't deal with her waste
+The cat is sad
+load: 1.53  cmd: a.out 17594 running 14.32u 11.02s
+the cat is happy
+^Ckill the cat
+^Ckill the cat
+^Ckill the cat
+^Ckill the cat
+^Ckill the cat
+^Ckill the cat
+The cat die! kill_cnt = 10
+(base) xiaotong@localhost PG九命猫 % 

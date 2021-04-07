@@ -1,0 +1,12 @@
+1,xiaotong,f,b5,information
+2,yueyuan,f,b5,information
+3,guanran,f,b5,information
+4,tianyi,f,b5,information
+5,yulian,m,z2,finance
+6,jinp,f,z1,finance
+7,yz,f,z1,economy
+8,za,m,z2,art
+9,yq,f,z5,information
+10,tt,f,z5,information
+11,ll,f,b5,information
+12,rld,f,b5,information

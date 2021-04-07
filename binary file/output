@@ -1,0 +1,56 @@
+Last login: Tue Apr  6 17:02:10 on ttys001
+(base) xiaotong@localhost ~ % cd Desktop/pgHomework\ 3 
+(base) xiaotong@localhost pgHomework 3 % ls
+a.out			main.cpp		test
+a.out.dSYM		student_list.txt
+(base) xiaotong@localhost pgHomework 3 % g++ main.cpp
+(base) xiaotong@localhost pgHomework 3 % ./a.out
+type in the flag >>> 1
+type in 4 students information >>>
+1 xiaotong f b5 information
+2 yueyuan f b5 information
+3 guanran f b5 information
+4 tianyi f b5 information
+type in the flag >>> 1
+type in 4 students information >>>
+5 yulian m z2 finance
+6 jinp f z1 finance
+7 yz f z1 economy
+8 za m z2 art
+type in the flag >>> 1
+type in 4 students information >>>
+9 yq f z5 information
+10 tt f z5 information
+11 ll f b5 information
+12 rld f b5 information
+type in the flag >>> 3
+load data into student_list.txt
+type in the flag >>> 2
+this is help page >>>
+	 type 1: type in 4 students information
+	 type 2: show this page
+	 type 3: load data into student_list.txt
+	 type 4: delete the student_list
+	 type 5: traverse the student_list
+type in the flag >>> 5
+traverse the student_list
+The student 1 xiaotong f b5 information
+The student 2 yueyuan f b5 information
+The student 3 guanran f b5 information
+The student 4 tianyi f b5 information
+The student 5 yulian m z2 finance
+The student 6 jinp f z1 finance
+The student 7 yz f z1 economy
+The student 8 za m z2 art
+The student 9 yq f z5 information
+The student 10 tt f z5 information
+The student 11 ll f b5 information
+The student 12 rld f b5 information
+length of student_list:12
+type in the flag >>> 4
+delete the student_list
+0
+type in the flag >>> 5
+traverse the student_list
+length of student_list:0
+type in the flag >>> 
